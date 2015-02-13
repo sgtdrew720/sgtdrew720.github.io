@@ -1,0 +1,10 @@
+Commands:
+1. ls (list files)
+	Lists local respository directory that includes sgtdrew720.github.io
+	We want to change directory to sgtdrew720.github.io
+2. cd .\sgtdrew720.github.io (change directory with using tab to [master] repository)
+3. ls (list files)
+4. Make additions, deletions, changes to all files we are working with. currently this is index.html
+	git add .
+	git commit -a -m "Adding my existing site."
+	git push origin master
